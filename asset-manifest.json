@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/palaeo/static/css/main.00ceee35.css",
+    "main.js": "/palaeo/static/js/main.4b3c75c1.js",
+    "static/media/icon-organizers.png": "/palaeo/static/media/icon-organizers.d3d24ffe1565780ffb20.png",
+    "static/media/textura-fondo.png": "/palaeo/static/media/textura-fondo.233e9e5ca837fc010c15.png",
+    "static/media/team-default.png": "/palaeo/static/media/team-default.804774ce208e21d8deb6.png",
+    "static/media/img-logo-color.png": "/palaeo/static/media/img-logo-color.46807654d05346ee401b.png",
+    "index.html": "/palaeo/index.html",
+    "main.00ceee35.css.map": "/palaeo/static/css/main.00ceee35.css.map",
+    "main.4b3c75c1.js.map": "/palaeo/static/js/main.4b3c75c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00ceee35.css",
+    "static/js/main.4b3c75c1.js"
+  ]
+}
