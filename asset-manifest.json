@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/palaeo/static/css/main.00ceee35.css",
-    "main.js": "/palaeo/static/js/main.4b3c75c1.js",
+    "main.css": "/palaeo/static/css/main.3b717e03.css",
+    "main.js": "/palaeo/static/js/main.93ab28de.js",
     "static/media/icon-organizers.png": "/palaeo/static/media/icon-organizers.d3d24ffe1565780ffb20.png",
     "static/media/textura-fondo.png": "/palaeo/static/media/textura-fondo.233e9e5ca837fc010c15.png",
     "static/media/team-default.png": "/palaeo/static/media/team-default.804774ce208e21d8deb6.png",
+    "static/media/persona-default1.png": "/palaeo/static/media/persona-default1.1846390e795ec268bc09.png",
+    "static/media/persona-default3.png": "/palaeo/static/media/persona-default3.e9c07bb70a7a645406d8.png",
+    "static/media/persona-default4.png": "/palaeo/static/media/persona-default4.6d7dce805a64ede438fa.png",
+    "static/media/persona-default2.png": "/palaeo/static/media/persona-default2.b803d3425696a3af9f37.png",
     "static/media/img-logo-color.png": "/palaeo/static/media/img-logo-color.46807654d05346ee401b.png",
     "index.html": "/palaeo/index.html",
-    "main.00ceee35.css.map": "/palaeo/static/css/main.00ceee35.css.map",
-    "main.4b3c75c1.js.map": "/palaeo/static/js/main.4b3c75c1.js.map"
+    "main.3b717e03.css.map": "/palaeo/static/css/main.3b717e03.css.map",
+    "main.93ab28de.js.map": "/palaeo/static/js/main.93ab28de.js.map"
   },
   "entrypoints": [
-    "static/css/main.00ceee35.css",
-    "static/js/main.4b3c75c1.js"
+    "static/css/main.3b717e03.css",
+    "static/js/main.93ab28de.js"
   ]
 }
