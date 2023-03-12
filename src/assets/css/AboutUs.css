@@ -1,0 +1,75 @@
+.about-us {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: flex-end;
+    margin: 105px 80px;
+    column-gap: 26px;
+}
+
+.about-us-left-section {
+    margin-right: 26px;
+}
+
+.about-us-left-section-img {
+    height: 300px;
+}
+
+.about-us-main {
+    height: 323px;
+    display: flex;
+    flex-flow: row wrap;
+    align-items : flex-start;
+}
+
+.about-us-main-title {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 15px;   
+    letter-spacing: 1.5px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    height: 20px;
+    margin: 0;
+}
+
+.about-us-main-body {
+    font-family: 'Cormorant', serif;
+    font-style: italic;
+    font-size: 45px;   
+    letter-spacing: 0;
+    line-height: 50px;
+    color: #FFFFFF;
+    font-weight: 300;
+    margin-top: 12px;
+    margin-bottom: 0;
+    align-self: flex-start;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.style-normal {
+    font-style: normal;
+}
+
+.about-us-main-btn {
+    align-self: flex-end;
+}
+
+.about-us-main-btn-a {
+    display: inline-block;
+    text-decoration: none;
+    color: #26DAFB;
+    letter-spacing: 1.8px;
+    text-transform: uppercase;
+    font-family: 'Roboto Mono', monospace;
+    border: 1px solid #26DAFB;
+    border-radius: 25px;
+    padding: 13px 35px;
+    font-size: 18px;
+}

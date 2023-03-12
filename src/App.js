@@ -1,25 +1,33 @@
-import logo from './logo.svg';
+import React from 'react';
+
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import AboutUs from './components/AboutUs';
+import Circular from './components/Circular';
+import Contact from './components/Contact';
+import HeroSection from './components/HeroSection';
+import KeySpeakers from './components/KeySpeakers';
+import NavegationBar from './components/NavegationBar';
+import NextEdition from './components/NextEdition';
+import SectionsBar from './components/SectionsBar';
+
+
+
+class App extends React.Component {
+  render() {
+    return (
+      <>
+        <NavegationBar />
+        <HeroSection />
+        <SectionsBar />
+        <AboutUs />
+        <Contact />
+        <NextEdition />
+        <Circular />
+        <KeySpeakers />
+      </>
+    )
+  }
 }
 
 export default App;

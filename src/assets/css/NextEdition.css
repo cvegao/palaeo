@@ -1,0 +1,94 @@
+.next-edition {
+    margin-top: 54px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.next-edition-subtitle {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 15px;
+    font-weight: normal;
+    letter-spacing: 1.5px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    margin: 0;
+    text-align: center;
+}
+
+.next-edition-title {
+    color: #26DAFB;
+    font-family: 'Cormorant', serif;
+    font-weight: bold;
+    font-size: 70px;
+    letter-spacing: 0;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.next-edition-dates-title {
+    font-family: 'Cormorant', serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    text-align: left;
+    letter-spacing: 1.5px;
+    margin-bottom: 16px;
+}
+
+.next-edition-dates-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.next-edition-dates-event {
+    display: flex;
+    column-gap: 10.5px;
+    margin-bottom: 35px;
+}
+
+.next-edition-dates-event-left-day {
+    font-family: 'Space Mono', monospace;
+    font-weight: bold;
+    color: #26DAFB;
+    font-size: 30px;
+    letter-spacing: 1.5px;
+}
+
+.next-edition-dates-event-right-month {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    text-align: left;
+    display: block;
+}
+
+.next-edition-dates-event-right-description {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 18px;
+    font-weight: normal;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    text-align: left;
+    display: block;
+}
+
+.next-edition-btn {
+    text-align: center;
+}
+
+.next-edition-btn-a {
+    border: 1px solid #26DAFB;
+    border-radius: 25px;
+    display: inline-block;
+    text-decoration: none;
+    font-family: 'Roboto Mono', monospace;
+    color: #26DAFB;
+    font-size: 18px;
+    letter-spacing: 1.8px;
+    text-transform: uppercase;
+    padding: 13px 40px;
+}

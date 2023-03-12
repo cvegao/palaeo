@@ -1,0 +1,69 @@
+.keyspeakers {
+    margin-top: 54px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.keyspeakers-title {
+    color: #FFF;
+    font-family: 'Cormorant', serif;
+    font-weight: bold;
+    font-size: 30px;
+    letter-spacing: 1.5px;
+    margin-top: 0;
+    margin-bottom: 24px;
+}
+
+.speaker {
+    display: grid;
+    gap: 30px;
+    margin-bottom: 98px;
+}
+
+.speaker_1-2 {
+    grid-template-columns: 1fr 2fr;
+}
+
+.speaker_2-1 {
+    grid-template-columns: 2fr 1fr;
+}
+
+.speaker-img {
+    width: 350px;
+}
+
+
+.speaker-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.speaker-title {
+    color: rgba(38, 218, 251, 1);
+    font-family: 'Cormorant', serif;
+    font-weight: bold;
+    font-size: 38px;
+    letter-spacing: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.speaker-name {
+    color: rgba(255, 255, 255, 1);
+    font-family: 'Roboto Mono', monospace;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.speaker-location {
+    color: rgba(255, 255, 255, 1);
+    font-family: 'Roboto Mono', monospace;
+    font-size: 18px;
+    font-weight: normal;
+    margin-top: 0;
+    margin-bottom: 0;
+}

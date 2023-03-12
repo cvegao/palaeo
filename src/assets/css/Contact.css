@@ -1,0 +1,55 @@
+.contact-us {
+    margin-top: 54px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.contact-us-items {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact-us-title {
+    color: #FFF;
+    font-family: 'Cormorant', serif;
+    font-weight: bold;
+    font-size: 30px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-bottom: 23px;
+}
+
+.contact-us-item {
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+}
+
+.contact-us-item-logo {
+    height: fit-content;
+}
+
+.contact-us-item-logo-img {
+    width: 50px;
+}
+
+.contact-us-item-info-title {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 18px;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0;
+    height: fit-content;
+}
+
+.contact-us-item-info-link {
+    text-decoration: none;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 18px;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    font-style: italic;
+    font-weight: normal;
+}
